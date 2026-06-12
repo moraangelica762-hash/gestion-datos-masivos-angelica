@@ -7,5 +7,5 @@ Transformar datos crudos de e-commerce en informacion confiable para negocio.
 - Gold: datos listos para analisis.
 ## Preguntas de Negocio
 1. ¿Cual es el revenue mensual?
-2. ¿Que categoras venden ms?
+2. ¿Que categoras venden mas?
 3. ¿Que estados tienen mayores demoras?
